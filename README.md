@@ -29,12 +29,7 @@ node tbbdemo
 Terminal output:
 
 Allocating a new web worker from /home/ubuntu/wasmtbbdemo/buildwasm/tbbdemo.worker.js
-Allocating a new web worker from /home/ubuntu/wasmtbbdemo/buildwasm/tbbdemo.worker.js
-Allocating a new web worker from /home/ubuntu/wasmtbbdemo/buildwasm/tbbdemo.worker.js
-Allocating a new web worker from /home/ubuntu/wasmtbbdemo/buildwasm/tbbdemo.worker.js
-Allocating a new web worker from /home/ubuntu/wasmtbbdemo/buildwasm/tbbdemo.worker.js
-Allocating a new web worker from /home/ubuntu/wasmtbbdemo/buildwasm/tbbdemo.worker.js
-Allocating a new web worker from /home/ubuntu/wasmtbbdemo/buildwasm/tbbdemo.worker.js
+
 Allocating a new web worker from /home/ubuntu/wasmtbbdemo/buildwasm/tbbdemo.worker.js
 
 test
