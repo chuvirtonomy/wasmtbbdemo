@@ -4,7 +4,7 @@
 Tested in Ubuntun 20.04
 
 ## Pre-requisite
-Install emcc by following: https://emscripten.org/docs/getting_started/downloads.html
+Install latest emcc by following: https://emscripten.org/docs/getting_started/downloads.html
 
 Compile wasmtbb https://github.com/hpcwasm/wasmtbb by:
 
