@@ -26,7 +26,8 @@ make
 ## Test demo project
 node tbbdemo
 
-Results:
+Terminal output:
+
 Allocating a new web worker from /home/ubuntu/wasmtbbdemo/buildwasm/tbbdemo.worker.js
 Allocating a new web worker from /home/ubuntu/wasmtbbdemo/buildwasm/tbbdemo.worker.js
 Allocating a new web worker from /home/ubuntu/wasmtbbdemo/buildwasm/tbbdemo.worker.js
@@ -35,13 +36,23 @@ Allocating a new web worker from /home/ubuntu/wasmtbbdemo/buildwasm/tbbdemo.work
 Allocating a new web worker from /home/ubuntu/wasmtbbdemo/buildwasm/tbbdemo.worker.js
 Allocating a new web worker from /home/ubuntu/wasmtbbdemo/buildwasm/tbbdemo.worker.js
 Allocating a new web worker from /home/ubuntu/wasmtbbdemo/buildwasm/tbbdemo.worker.js
+
 test
+
 Example::init(2)
+
 0.001
+
 created 64 tasks
+
 0
+
 runParallel done 
+
 7.616
+
 runSerial done 
+
 15.106
+
 threadInit
