@@ -7,8 +7,6 @@ Compile wasmtbb https://github.com/hpcwasm/wasmtbb by:
 
 git clone https://github.com/hpcwasm/wasmtbb
 
-in the root folder
-
 emmake make tbb
 
 ## Build demo project
