@@ -1,4 +1,4 @@
-# Build demo project
+# Build and test demo project
 
 ## Pre-requisite
 Install emcc by following: https://emscripten.org/docs/getting_started/downloads.html
